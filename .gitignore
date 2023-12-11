@@ -1,9 +1,3 @@
-# Visual Studio project files.
-.idea
+# Program files
+__pycache__
 
-# Users data.
-db.sqlite3
-Django_1/Django_1/settings.py
-
-# Python cache.
-Django_1/Django_1/__pycache__/
